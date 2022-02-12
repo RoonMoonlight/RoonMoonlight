@@ -4,9 +4,9 @@ My name is Roon, the starry wizard who makes several projects related to games �
 I'm currently part of Mystic Moonlight([@MysticMoonlight](https://github.com/MysticMoonlight)).
 
 ### About me
-- 🔭 I’m currently working on several modpacks which will improve the overall gameplay experiences!
-- 🌱 I’m currently learning Python!
-- ⚡ Fun fact: I love Vtubers a lot
+- 🔭 I’m currently working on EnhancedMod series which will improve the overall gameplay experiences!
+- 🌱 I’m currently learning Python and Lua!
+- ⚡ Fun fact: I love VTubers a lot~
 
 ### Related Links
 - [Twitter](https://twitter.com/Roon_Moonlight)
