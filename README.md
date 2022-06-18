@@ -1,12 +1,12 @@
-### Hi ya! Welcome to my profile 👋
-My name is Roon, the starry wizard who makes several projects related to games ✨
+### Howdy! Welcome to my profile 👋
+My name is Roon, the adventurer wizard who makes several projects related to games ✨
 
 I'm currently part of Mystic Moonlight([@MysticMoonlight](https://github.com/MysticMoonlight)).
 
 ### About me
-- 🔭 I’m currently working on EnhancedMod series which will improve the overall gameplay experiences!
-- 🌱 I’m currently learning Python and Lua!
-- ⚡ Fun fact: I love VTubers a lot~
+- 🔭 I’m currently working on EnhancedMod series
+- 🌱 I’m currently learning Python and Lua
+- ⚡ Fun fact: I love Virtual Livers a lot
 
 ### Related Links
 - [Twitter](https://twitter.com/Roon_Moonlight)
