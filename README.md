@@ -1,6 +1,3 @@
-### We are migrating!
-We are moving away from GitHub and starting a new journey at Codeberg! [More announcement here](https://codeberg.org/MysticMoonlight/Codeberg-Migration-Announcement/src/branch/main/README.md).
-
 ### Howdy! Welcome to my profile 👋
 My name is Roon, the adventurer magician who likes to make several things ✨
 
