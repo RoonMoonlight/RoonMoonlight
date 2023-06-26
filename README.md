@@ -8,9 +8,5 @@ I'm currently part of Mystic Moonlight([@MysticMoonlight](https://github.com/Mys
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python, and Lua
 - ⚡ Fun fact: I love Virtual Livers a lot
 
-### Related Links
-- [Twitter](https://twitter.com/Roon_Moonlight)
+### My Profile
 - [Carrd](https://roonmoonlight.carrd.co)
-
-### To other developers
-STOP FORKING if you don't know anything how this works. ONLY FORK THE PROJECT IF YOU DO KNOW WELL ABOUT THE PROJECT.
