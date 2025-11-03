@@ -1,3 +1,5 @@
+## We have made a new Code of Conduct, which will apply to all future projects created by Roon and community contributors. [Read here for more details.](https://github.com/RoonMoonlight/.github/blob/main/CODE_OF_CONDUCT.md)
+
 ### Howdy! Welcome to my profile 👋
 My name is Roon, the magician of eternity who loves to make several things ✨
 
