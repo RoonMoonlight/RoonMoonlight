@@ -1,4 +1,4 @@
-## We have made a new Code of Conduct, which will apply to all future projects created by Roon and community contributors. [Read here for more details.](https://github.com/RoonMoonlight/.github/blob/main/CODE_OF_CONDUCT.md)
+## Notice: Some of the source code will be migrated to Codeberg, effective April 2026. They can be found [here](https://codeberg.org/RoonMoonlight). The issue tracker will also be available on GitHub as well for the better accessibility. The remaining source code will no longer receive an updates, and will be deleted at the end of April 2026.
 
 ### Howdy! Welcome to my profile 👋
 My name is Roon, the magician of eternity who loves to make several things ✨
