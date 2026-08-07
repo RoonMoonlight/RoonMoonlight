@@ -1,4 +1,4 @@
-## Notice: Some of the source code has been migrated to Codeberg, effective April 30, 2026. They can be found [here](https://codeberg.org/RoonMoonlight). The issue tracker will also be available on GitHub as well for better accessibility.
+## Notice: We are migrating source code hosting from Codeberg (again). [Read more.](https://github.com/QuantuMiz/QuantuMiz-Projects/issues/3)
 ### Welcome to Roon's Profile.
 My name is Roon, a wandering eternal mage who loves to make several things.
 
