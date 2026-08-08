@@ -1,4 +1,3 @@
-## Notice: We are migrating source code hosting from Codeberg into other instance (again). [Read more.](https://github.com/QuantuMiz/QuantuMiz-Projects/issues/3)
 ### Welcome to Roon's Profile.
 My name is Roon, a wandering eternal mage who loves to make several things.
 
